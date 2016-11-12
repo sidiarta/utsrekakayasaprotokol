@@ -1,3 +1,6 @@
+# utsrekakayasaprotokol
+Kelompok 5,6 : Perintah yang dikirim client adalah “cpu” dengan balikan server adalah cpu usage pada server saat itu
+
 import socket
 import psutil
 s= socket.socket()
