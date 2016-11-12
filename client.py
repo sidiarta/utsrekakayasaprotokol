@@ -1,5 +1,5 @@
 # utsrekakayasaprotokol
-Kelompok 5,6 : Perintah yang dikirim client adalah “cpu” dengan balikan server adalah cpu usage pada server saat itu
+Kelompok 5 : Perintah yang dikirim client adalah “cpu” dengan balikan server adalah cpu usage pada server saat itu
 
 import socket
 
